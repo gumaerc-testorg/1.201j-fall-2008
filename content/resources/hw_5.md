@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9fcb7d0d-8cfe-f1b0-2f1d-7a69f645464a
 resourcetype: Other
 title: 'Homework 5: Worksheet'
 uid: abbd17c1-5ff5-3ba0-f819-10b66afd6522
