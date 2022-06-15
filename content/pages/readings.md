@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the three primary textbooks for
+  the course and the schedule of readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -350,7 +352,7 @@ Ben-Akiva, M., D. Bolduc, and M. Bradley. "Estimation of Travel Choice Models wi
 
 Gopinath, D. A., and Moshe Ben-Akiva. "Estimation of Randomly Distributed Value of Time." Working Paper, Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, 1997.
 
-Kriger, David, Suzette Shiu, and Sasha Naylor. "National Cooperative Highway Research Program Synthesis 364: Estimating Toll Road Demand and Revenue." Washington, DC: Transportation Research Board, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_syn_364.pdf))
+Kriger, David, Suzette Shiu, and Sasha Naylor. "National Cooperative Highway Research Program Synthesis 364: Estimating Toll Road Demand and Revenue." Washington, DC: Transportation Research Board, 2006. ([PDF](http://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_syn_364.pdf))
 
 
 {{< tdclose >}}
@@ -505,7 +507,7 @@ Guest lecture: Lance Neumann, Cambridge Systematics, Inc.
 
 \[S\] Chapter 5.2-3
 
-"Surface Transportation: Many Factors Affect Investment Decisions." Washington, DC: U.S. General Accounting Office, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.gao.gov/new.items/d04744.pdf))
+"Surface Transportation: Many Factors Affect Investment Decisions." Washington, DC: U.S. General Accounting Office, 2004. ([PDF](http://www.gao.gov/new.items/d04744.pdf))
 
 
 {{< tdclose >}}
@@ -555,7 +557,7 @@ Guest lecture: Chris Zegras, MIT Department of Urban Studies and Planning
 
 {{< tdclose >}}
 {{< tdopen >}}
-"Cities on the Move: A World Bank Urban Transport Strategy Review." Washington, DC: World Bank Publications, 2002, pp. 5-77. ISBN: 9780821351482. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/928301468762905413/cities-on-the-move-a-world-bank-urban-transport-strategy-review))
+"Cities on the Move: A World Bank Urban Transport Strategy Review." Washington, DC: World Bank Publications, 2002, pp. 5-77. ISBN: 9780821351482. ([PDF](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/928301468762905413/cities-on-the-move-a-world-bank-urban-transport-strategy-review))
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ FILES
 Homework 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_201jf08_hw_1))
+({{% resource_link 275a107c-daf8-6cfd-6b3d-59f3534e094a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Homework 1
 Homework 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_201jf08_hw_2))
+({{% resource_link 39821eb3-270b-a800-d6ef-4ce81cf8d5f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Homework 2
 Homework 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_201jf08_hw_3))
+({{% resource_link ac17cea8-e12c-ae7d-c70a-db967e73b108 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Homework 3
 Homework 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_201jf08_hw_4))
+({{% resource_link 1e8c8916-62e8-ad39-42e7-73db1e2f4eba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,9 +70,9 @@ Worksheet
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit1_201jf08_hw_5))
+({{% resource_link 32a3224d-398f-aa84-cfa7-564042be9a3d "PDF" %}})
 
-([XLS]({{< baseurl >}}/resources/hw_5))
+({{% resource_link abbd17c1-5ff5-3ba0-f819-10b66afd6522 "XLS" %}})
 
 
 {{< tdclose >}}
