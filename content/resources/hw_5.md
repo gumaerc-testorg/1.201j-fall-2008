@@ -5,6 +5,7 @@ file: /courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Homework 5: Worksheet'
 uid: abbd17c1-5ff5-3ba0-f819-10b66afd6522
 ---
 Worksheet for a problem set on estimating uncertainty in a revenue forecast.
-

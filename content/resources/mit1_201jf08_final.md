@@ -5,6 +5,7 @@ file: /courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Exam
 uid: 08be108a-6f03-62fa-3ef5-409203c1956f
 ---
 Final exam on transportation systems analysis.
-

@@ -5,6 +5,7 @@ file: /courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Transport Demand and Pricing Module
 uid: b9e57716-c8c7-66dc-2ccc-0f76e2fefc1a
 ---
 Practice problems on transport demand and pricing.
-
