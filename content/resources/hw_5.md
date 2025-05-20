@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Worksheet for a problem set on estimating uncertainty in a revenue forecast.
-file: /ol-ocw-studio-app/courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/abbd17c15ff53ba0f81910b66afd6522_hw_5.xls
+file: /courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/abbd17c15ff53ba0f81910b66afd6522_hw_5.xls
 file_size: 15872
 file_type: application/msword
 learning_resource_types:
