@@ -352,7 +352,7 @@ Ben-Akiva, M., D. Bolduc, and M. Bradley. "Estimation of Travel Choice Models wi
 
 Gopinath, D. A., and Moshe Ben-Akiva. "Estimation of Randomly Distributed Value of Time." Working Paper, Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, 1997.
 
-Kriger, David, Suzette Shiu, and Sasha Naylor. "National Cooperative Highway Research Program Synthesis 364: Estimating Toll Road Demand and Revenue." Washington, DC: Transportation Research Board, 2006. ({{% resource_link "fd9f1b3a-b31c-4309-a447-5a82c0781200" "PDF" %}})
+Kriger, David, Suzette Shiu, and Sasha Naylor. "National Cooperative Highway Research Program Synthesis 364: Estimating Toll Road Demand and Revenue." Washington, DC: Transportation Research Board, 2006. ([PDF](http://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_syn_364.pdf))
 
 
 {{< tdclose >}}
@@ -426,7 +426,7 @@ Guest lecture: Jon Bottom, Steer Davies Gleave
 
 {{< tdclose >}}
 {{< tdopen >}}
-Wachs, Martin. "{{% resource_link "d6afdf21-cd41-49a5-b066-8cf1cf5d1c37" "Improving Efficiency and Equity in Transportation Finance" %}}." Washington, DC: The Brookings Institution, 2003.
+Wachs, Martin. "[Improving Efficiency and Equity in Transportation Finance](http://www.brookings.edu/research/reports/2003/04/transportation-wachs)." Washington, DC: The Brookings Institution, 2003.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -507,7 +507,7 @@ Guest lecture: Lance Neumann, Cambridge Systematics, Inc.
 
 \[S\] Chapter 5.2-3
 
-"Surface Transportation: Many Factors Affect Investment Decisions." Washington, DC: U.S. General Accounting Office, 2004. ({{% resource_link "92958103-67fe-4c6a-92a2-6a06ab49d96a" "PDF" %}})
+"Surface Transportation: Many Factors Affect Investment Decisions." Washington, DC: U.S. General Accounting Office, 2004. ([PDF](http://www.gao.gov/new.items/d04744.pdf))
 
 
 {{< tdclose >}}
@@ -557,7 +557,7 @@ Guest lecture: Chris Zegras, MIT Department of Urban Studies and Planning
 
 {{< tdclose >}}
 {{< tdopen >}}
-"Cities on the Move: A World Bank Urban Transport Strategy Review." Washington, DC: World Bank Publications, 2002, pp. 5-77. ISBN: 9780821351482. ({{% resource_link "192cb8e9-1563-4536-8fbd-500fd5d9d941" "PDF" %}})
+"Cities on the Move: A World Bank Urban Transport Strategy Review." Washington, DC: World Bank Publications, 2002, pp. 5-77. ISBN: 9780821351482. ([PDF](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/928301468762905413/cities-on-the-move-a-world-bank-urban-transport-strategy-review))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -597,7 +597,7 @@ Intelligent transportation systems and the impact of traveler information; emerg
 
 \[S\] Chapter 7
 
-Murphy, Sean. "{{% resource_link "676c3930-d011-4816-95f5-e898d93b9720" "Big Dig Pushes Bottlenecks Outward." %}}" _Boston Globe_, November 16, 2008.
+Murphy, Sean. "[Big Dig Pushes Bottlenecks Outward.](http://www.boston.com/news/traffic/bigdig/articles/2008/11/16/big_dig_pushes_bottlenecks_outward/)" _Boston Globe_, November 16, 2008.
 
 
 {{< tdclose >}}
